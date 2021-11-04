@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang = "sv">
+<head>
+<meta charset="utf-8">
+<title>HTML5 - semantiska element </title>
+</head>
+<body>
+<header>
+<h1>html5</h1>
+</header>
+
+<nav>
+<ul>
+<li>Meny 1</li>
+<li>Meny 2</li>
+<li>Meny3</li>
+</ul>
+</nav>
+
+<main>
+
+<section>
+    <h2>Rubrik för section</h2>
+
+<article>
+<h2>Artikel 1</h2>
+<p>Det här är artikel 1 som är en del av huvudtexten</p>
+<aside>Det här är en notis i anslutning till artikeln.</aside>
+</article>
+
+<article>
+<h2>Artikel 2</h2>
+<p>Det här är artikel 2 som är en del av huvudtexten</p>
+</article>
+
+</section>
+
+</main>
+
+<footer>
+<p>&copy; 2015 Webdesignskolan</p>
+</footer>
+</body>
+</html>
